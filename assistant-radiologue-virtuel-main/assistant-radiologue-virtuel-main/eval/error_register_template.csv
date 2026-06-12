@@ -1,4 +1,0 @@
-case_id,ground_truth,prediction,error_type,severity,comment,corrective_action
-CXR_SYN_002,suspected_opacity,normal,FN,high,synthetic opacity missed,review threshold and prompt
-CXR_SYN_001,normal,suspected_opacity,FP,medium,normal structures overcalled,improve specificity
-CXR_SYN_003,uncertain,uncertain,UA,low,limited quality correctly handled,keep uncertainty rule
