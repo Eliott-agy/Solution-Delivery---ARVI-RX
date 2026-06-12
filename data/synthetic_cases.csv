@@ -1,0 +1,31 @@
+case_id,image_path,source,label,split,quality,notes
+CXR_SYN_001,data/sample_images/CXR_SYN_001_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_002,data/sample_images/CXR_SYN_002_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_003,data/sample_images/CXR_SYN_003_uncertain.png,synthetic_toy,uncertain,smoke,limited,synthetic low-quality ambiguous image
+CXR_SYN_004,data/sample_images/CXR_SYN_004_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_005,data/sample_images/CXR_SYN_005_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_006,data/sample_images/CXR_SYN_006_uncertain.png,synthetic_toy,uncertain,smoke,limited,synthetic low-quality ambiguous image
+CXR_SYN_007,data/sample_images/CXR_SYN_007_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_008,data/sample_images/CXR_SYN_008_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_009,data/sample_images/CXR_SYN_009_uncertain.png,synthetic_toy,uncertain,smoke,limited,synthetic low-quality ambiguous image
+CXR_SYN_010,data/sample_images/CXR_SYN_010_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_011,data/sample_images/CXR_SYN_011_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_012,data/sample_images/CXR_SYN_012_uncertain.png,synthetic_toy,uncertain,smoke,limited,synthetic low-quality ambiguous image
+CXR_SYN_013,data/sample_images/CXR_SYN_013_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_014,data/sample_images/CXR_SYN_014_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_015,data/sample_images/CXR_SYN_015_uncertain.png,synthetic_toy,uncertain,smoke,limited,synthetic low-quality ambiguous image
+CXR_SYN_016,data/sample_images/CXR_SYN_016_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_017,data/sample_images/CXR_SYN_017_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_018,data/sample_images/CXR_SYN_018_uncertain.png,synthetic_toy,uncertain,smoke,limited,synthetic low-quality ambiguous image
+CXR_SYN_019,data/sample_images/CXR_SYN_019_normal.png,synthetic_toy,normal,smoke,good,synthetic normal-like image
+CXR_SYN_020,data/sample_images/CXR_SYN_020_suspected_opacity.png,synthetic_toy,suspected_opacity,smoke,good,synthetic opacity-like patch
+CXR_SYN_021,data/sample_images/CXR_SYN_021_uncertain.png,synthetic_toy,uncertain,final,limited,synthetic low-quality ambiguous image
+CXR_SYN_022,data/sample_images/CXR_SYN_022_normal.png,synthetic_toy,normal,final,good,synthetic normal-like image
+CXR_SYN_023,data/sample_images/CXR_SYN_023_suspected_opacity.png,synthetic_toy,suspected_opacity,final,good,synthetic opacity-like patch
+CXR_SYN_024,data/sample_images/CXR_SYN_024_uncertain.png,synthetic_toy,uncertain,final,limited,synthetic low-quality ambiguous image
+CXR_SYN_025,data/sample_images/CXR_SYN_025_normal.png,synthetic_toy,normal,final,good,synthetic normal-like image
+CXR_SYN_026,data/sample_images/CXR_SYN_026_suspected_opacity.png,synthetic_toy,suspected_opacity,final,good,synthetic opacity-like patch
+CXR_SYN_027,data/sample_images/CXR_SYN_027_uncertain.png,synthetic_toy,uncertain,final,limited,synthetic low-quality ambiguous image
+CXR_SYN_028,data/sample_images/CXR_SYN_028_normal.png,synthetic_toy,normal,final,good,synthetic normal-like image
+CXR_SYN_029,data/sample_images/CXR_SYN_029_suspected_opacity.png,synthetic_toy,suspected_opacity,final,good,synthetic opacity-like patch
+CXR_SYN_030,data/sample_images/CXR_SYN_030_uncertain.png,synthetic_toy,uncertain,final,limited,synthetic low-quality ambiguous image
